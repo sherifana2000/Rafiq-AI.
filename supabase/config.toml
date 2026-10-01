@@ -1,0 +1,4 @@
+# Supabase Configuration for Rafiq AI
+# Explicit JWT verification is enforced in code inside the rafiq-brain function
+[functions.rafiq-brain]
+verify_jwt = false

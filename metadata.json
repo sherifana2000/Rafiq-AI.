@@ -1,0 +1,6 @@
+{
+  "name": "Rafiq AI",
+  "description": "مساعد شخصي ذكي لإدارة الوقت والمهام وتنفيذ الأوامر باللغة العربية الطبيعية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

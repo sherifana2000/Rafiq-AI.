@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rafiq AI</string>
+    <string name="app_name_arabic">رفيق</string>
+    <string name="greeting_user">مرحباً بك! رفيق في خدمتك</string>
+    <string name="today_status_summary">حالة اليوم: يومك منظم ومهامك تحت السيطرة</string>
+    <string name="command_input_hint">ماذا تريد مني؟ (مثال: بكرة الساعة 8 ذكرني أذاكر)</string>
+    <string name="send_command">إرسال</string>
+    <string name="voice_input">أمر صوتي</string>
+    <string name="section_current_task">مهمتك الآن</string>
+    <string name="section_today_schedule">جدول اليوم</string>
+    <string name="section_recent_commands">آخر الأوامر</string>
+    <string name="no_current_task">لا توجد مهمة جارية في هذه اللحظة</string>
+    <string name="no_tasks_today">لا توجد مهام متبقية لليوم</string>
+    <string name="no_recent_commands">لم يتم تسجيل أي أوامر مؤخراً</string>
+</resources>
